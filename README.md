@@ -14,6 +14,6 @@ Aqui está uma apresentação dos resultados obtidos.
 * OpenCV
 
 ## *como utilizar:*
-Faça uma cópia do Colab que está no link: [Classificação-Ecommerce]([https://www.kaggle.com/datasets/fatihkgg/ecommerce-product-images-18k](https://colab.research.google.com/drive/1zI8ETDlvc2qauVjfpnWXmwnS3xOpdoIw#scrollTo=UtwCMKa7vyxU).
+Faça uma cópia do Colab que está no link: [Classificação-Ecommerce](https://colab.research.google.com/drive/1zI8ETDlvc2qauVjfpnWXmwnS3xOpdoIw#scrollTo=UtwCMKa7vyxU).
 
 E assim já pode ser testado e modificado :)
